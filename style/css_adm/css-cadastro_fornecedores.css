@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&family=Playpen+Sans:wght@300;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Playpen Sans', sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+
+main{
+    padding-top: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.formulario {
+    width: 500px;
+    background-color: #DBB374;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #b48c4b;
+    padding: 20px;
+    margin: 15px;
+}
+
+.formulario_campos {
+    text-align: left;
+    margin: 10px;
+    color: white;
+}
+
+
+.formulario_campos input {
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom: 1px solid #FFF;
+    padding: 5px;
+    width: 93%;
+}
+
+h1 {
+    color: white;
+}
+
+.btn {
+    font-family: 'Playpen Sans', sans-serif;
+    background: none;
+    border: none;
+    color: #FFF;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 20px;
+}
+
+#login_retorno {
+    text-decoration: none;
+    color: white;
+}
+
+.formulario_campos label,
+.formulario_campos input {
+    color: white;
+}
+
+.formulario_campos input {
+    caret-color: white;
+}
+
+@media screen and (min-width: 768px){
+    main{
+        flex-direction: column;
+    }
+}
+
+

@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&family=Playpen+Sans:wght@300;500&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Playpen Sans', sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+main{
+    padding-top: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#titulo_carrinho{
+    padding: 20px;
+    font-size: 32px;
+}
+.container{
+    padding: 10px;
+    margin-bottom: 40px;
+}
+.container .produtos {
+    list-style-type: none;
+    margin: 10px 10px;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+}
+.container .produtos .cartao{
+    margin: auto;
+    background-color: #DBB374;
+    width: 60vw;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    transition: 0.2s ease-in-out;
+    border-style: solid;
+    border-color: #b48c4b;
+    bottom: 0;
+    border-radius: 10px;
+    color: white;
+}
+span{
+    color: black;
+    font-size: 20px;
+    padding: 40px;
+}
+.container img {
+    width: 100px;
+    height: 100px;
+}
+h1, h2{
+    font-size: 24px;
+    padding: 5px;
+}
+#total_pedido{
+    margin-bottom: 40px;
+}
+#rastreio{
+    text-align: center;
+    margin: 30px auto; 
+    width: 300px; 
+    background-color: #DBB374;
+    border-radius: 10px;
+    border: #b48c4b;
+    border-style: solid;
+    color: white;
+    text-decoration: none;
+}
+.a_btn{
+    margin: 10px 23px;
+    font-family: 'Playpen Sans', sans-serif;
+    background-color: #DBB374; 
+    padding: 10px;
+    border: #b48c4b; 
+    border-radius: 10px;
+    border-style: solid;
+    color: white;
+    font-weight: bold;
+    font-size: 20px; 
+    cursor: pointer;
+    text-decoration: none;
+}
+.exibir_pedidos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 20px;  
+}
+
+
+
+
