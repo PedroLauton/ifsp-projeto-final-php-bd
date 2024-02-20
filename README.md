@@ -36,7 +36,8 @@ Bem-vindo ao projeto da loja de açougue chamada ### Açougu-E! Este é um siste
 
 ## Screenshots e Gifs
 
-!Tela inicial(https://github.com/PedroLauton/ifsp-projeto-final-php-bd/blob/177f7a4d9bb06b5e44cd480d49485bda9479503d/gifs/d81596d3-54ee-4132-8f09-1ba27e4763f2.gif)
+## Tela inicial
+<img src="./gifs/d81596d3-54ee-4132-8f09-1ba27e4763f2.gif">
 ![Screenshot 2](link_para_screenshot2)
 ![Gif 1](link_para_gif1)
 ![Gif 2](link_para_gif2)
