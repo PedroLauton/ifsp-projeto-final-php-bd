@@ -1,6 +1,6 @@
 # Açougu-E 
 
-Bem-vindo ao projeto da loja de açougue chamada ### Açougu-E! Este é um sistema web desenvolvido em PHP com banco de dados, destinado à gestão de uma loja. O projeto foi realizado em parceria com 4 pessoas.
+Bem-vindo ao projeto da loja de açougue chamada Açougu-E! Este é um sistema web desenvolvido em PHP com banco de dados, destinado à gestão de uma loja. O projeto foi realizado em parceria com 4 pessoas.
 
 ## Contribuidores
 
@@ -34,7 +34,7 @@ Bem-vindo ao projeto da loja de açougue chamada ### Açougu-E! Este é um siste
 - JavaScript.
 
 
-## Screenshots e Gifs
+## Gifs
 
 - Tela inicial
 <img src="./gifs/gif1.gif">
