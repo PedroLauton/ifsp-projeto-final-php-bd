@@ -36,9 +36,26 @@ Bem-vindo ao projeto da loja de açougue chamada ### Açougu-E! Este é um siste
 
 ## Screenshots e Gifs
 
-## Tela inicial
-<img src="./gifs/d81596d3-54ee-4132-8f09-1ba27e4763f2.gif">
-![Screenshot 2](link_para_screenshot2)
-![Gif 1](link_para_gif1)
-![Gif 2](link_para_gif2)
+- Tela inicial
+<img src="./gifs/gif1.gif">
 
+- Cadastro e Login
+<img src="./gifs/gif3.gif">
+
+- Pedidos dos clientes 
+<img src="./gifs/gif6.gif">
+
+- Área do Adm
+<img src="./gifs/gif4.gif">
+
+- Clientes
+<img src="./gifs/gif7.gif">
+
+- Funcionários
+<img src="./gifs/gif2.gif">
+
+- Fornecedores
+<img src="./gifs/gif5.gif">
+
+- Pedidos
+<img src="./gifs/gif8.gif">
